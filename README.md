@@ -4,7 +4,11 @@ The dataset contains data points collected from a Combined Cycle Power Plant ove
 
 We will predict using:
     1. Simple Linear Regression for each pair of predictor-response variables
+    
     2. Multiple Linear Regression
+    
     3. Non-linear (Quadratic/Cubic/Bi-Quadratic) Regression
+    
     4. Full Linear Regression with all Pairwise Interaction terms
+    
     5. KNN Regression
